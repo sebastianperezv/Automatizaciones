@@ -1,4 +1,4 @@
-# 🛒 Retail Price Intelligence Pipeline | Quadracom
+# 🛒 Retail Price Intelligence Pipeline
 
 Pipeline analítico automatizado para la monitorización proactiva de competitividad de precios en el sector farmacéutico (retail). 
 
